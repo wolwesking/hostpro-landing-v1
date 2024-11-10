@@ -10,13 +10,13 @@ return {
 	assets: new Set(["android-chrome-192x192.png","android-chrome-512x512.png","apple-touch-icon.png","favicon-16x16.png","favicon-32x32.png","favicon.ico","heroImage.webp","site.webmanifest","task-serv2-clusterjoin-2024-10-29T18_22_51Z.log","trustpilotIcon.svg"]),
 	mimeTypes: {".png":"image/png",".webp":"image/webp",".webmanifest":"application/manifest+json",".log":"text/plain",".svg":"image/svg+xml"},
 	_: {
-		client: {"start":"_app/immutable/entry/start.O_8PpxVU.js","app":"_app/immutable/entry/app.D3eD9pqk.js","imports":["_app/immutable/entry/start.O_8PpxVU.js","_app/immutable/chunks/entry.BQarArd1.js","_app/immutable/chunks/scheduler.BJDr1mdf.js","_app/immutable/entry/app.D3eD9pqk.js","_app/immutable/chunks/scheduler.BJDr1mdf.js","_app/immutable/chunks/index.CPSkmJ5g.js"],"stylesheets":[],"fonts":[],"uses_env_dynamic_public":false},
+		client: {"start":"_app/immutable/entry/start.B_54Ir0A.js","app":"_app/immutable/entry/app.C1Ul3KTK.js","imports":["_app/immutable/entry/start.B_54Ir0A.js","_app/immutable/chunks/entry.B0oQUXGQ.js","_app/immutable/chunks/scheduler.BJDr1mdf.js","_app/immutable/entry/app.C1Ul3KTK.js","_app/immutable/chunks/scheduler.BJDr1mdf.js","_app/immutable/chunks/index.CPSkmJ5g.js"],"stylesheets":[],"fonts":[],"uses_env_dynamic_public":false},
 		nodes: [
-			__memo(() => import('./chunks/0-kgASNKqZ.js')),
-			__memo(() => import('./chunks/1-C4j5sRUl.js')),
-			__memo(() => import('./chunks/2-aJlzb8m4.js')),
+			__memo(() => import('./chunks/0-DbO_NJAL.js')),
+			__memo(() => import('./chunks/1-DOFNXvFu.js')),
+			__memo(() => import('./chunks/2-HDLq3ltx.js')),
 			__memo(() => import('./chunks/3-C5FZaAeH.js')),
-			__memo(() => import('./chunks/4-B2L0OZO5.js')),
+			__memo(() => import('./chunks/4-Cj8NJVgP.js')),
 			__memo(() => import('./chunks/5-CsSP-59G.js')),
 			__memo(() => import('./chunks/6-DGO4cvYP.js')),
 			__memo(() => import('./chunks/7-f4yYvPda.js'))
