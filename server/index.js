@@ -107,6 +107,7 @@ const options = {
 	<head>
 		<meta charset="utf-8" />
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-BWXTLFZRYB"><\/script>
+		<script src="https://static.copyrighted.com/badges/helper.js"><\/script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
 			function gtag() {
@@ -188,7 +189,7 @@ const options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "173ex3o"
+  version_hash: "3405ow"
 };
 async function get_hooks() {
   return {};
